@@ -1,0 +1,15 @@
+************* Module new_app
+new_app.py:47:0: C0301: Line too long (126/100) (line-too-long)
+new_app.py:53:0: C0301: Line too long (113/100) (line-too-long)
+new_app.py:56:0: C0303: Trailing whitespace (trailing-whitespace)
+new_app.py:59:0: C0303: Trailing whitespace (trailing-whitespace)
+new_app.py:92:0: C0325: Unnecessary parens after 'if' keyword (superfluous-parens)
+new_app.py:96:0: C0301: Line too long (133/100) (line-too-long)
+new_app.py:107:0: C0304: Final newline missing (missing-final-newline)
+new_app.py:63:22: W0621: Redefining name 'place' from outer scope (line 104) (redefined-outer-name)
+new_app.py:74:15: W3101: Missing timeout argument for method 'requests.request' can cause your program to hang indefinitely (missing-timeout)
+new_app.py:97:15: W3101: Missing timeout argument for method 'requests.request' can cause your program to hang indefinitely (missing-timeout)
+
+------------------------------------------------------------------
+Your code has been rated at 8.39/10 (previous run: 8.39/10, +0.00)
+
